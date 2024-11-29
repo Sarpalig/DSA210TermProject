@@ -6,7 +6,7 @@
 
 ## **Purpose**
 
-This project aims to analyze YouTube watch history month by month, identifying patterns in video types watched most frequently. The primary focus is to explore the relationship between personal viewing habits and the popularity of specific games during that time frame. By bridging personal preferences and broader gaming trends, the analysis seeks to answer questions like:
+This project aims to analyze my YouTube watch history month by month, identifying patterns in video types watched most frequently. The primary focus is to explore the relationship between personal viewing habits and the popularity of specific games during that time frame. By linking personal preferences and broader gaming trends, the analysis aim to answer questions like:
 
 - What types of videos were most watched each month?
 - How does personal watch history align with trending games during those periods?
