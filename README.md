@@ -66,3 +66,7 @@ Data is sourced from **Google Takeout**, which allows users to download personal
 ---
 
 
+You can view the full report by clicking [here](https://1drv.ms/w/s!AtGEwus5akVOgaMZoYaB3VsfoJy3zw?e=eTIv9E).
+
+
+
